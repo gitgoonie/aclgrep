@@ -4,6 +4,7 @@
 
    Copyright 2013, Steffen Imhof
    Licensed under the MIT License (MIT), see LICENSE file for details
+
 '''
 
 import socket, struct, sys, re, fileinput
